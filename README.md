@@ -1,44 +1,49 @@
-# Smart-Tasbih
-🕌 هدية لكل مسلم ومحبي التقنية.. "السبحة الذكية" بنسختها الجديدة! ✨ الحمد لله، انتهيت من تطوير مشروعي الجديد Smart Tasbih Pro، وهو أكثر من مجرد سبحة إلكترونية.. هو رفيق لذكر الله على جهاز الكمبيوتر الخاص بك.
-# 🕌 Smart Tasbih Pro | السبحة الذكية المطورة 
-> **"ذكرٌ وطمأنينة.. بتكنولوجيا ذكية"**
+# 🕌 Smart Tasbih Pro | السبحة الذكية المطورة (الإصدار 3.0)
+
+> **"ذكرٌ وطمأنينة.. بتكنولوجيا ذكية"** - تطبيق مكتبي يجمع بين روعة التصميم وعمق الأثر.
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![OS](https://img.shields.io/badge/OS-Windows%20%7C%20Linux-lightgrey?style=for-the-badge&logo=windows)](https://github.com/)
+[![Download EXE](https://img.shields.io/badge/Download-Windows%20EXE-brightgreen?style=for-the-badge&logo=windows)](https://github.com/youssef-elkhodary-eg/Smart-Tasbih/releases/download/V-3.0/SmartTasbih.V-3.0.exe)
+[![Author](https://img.shields.io/badge/Author-Youssef%20Elkhodary-orange?style=for-the-badge)](#)
 
 تطبيق **Smart Tasbih Pro** هو رفيقك المسلم على سطح المكتب، يدمج بين سهولة التسبيح الرقمي وبين المعرفة الدينية العميقة من خلال مكتبة أحاديث نبوية صحيحة لكل ذكر.
 
 ---
 
-## 🌟 Highlights | أبرز المميزات
+## 📸 صور من داخل التطبيق (Screenshots)
 
-### 🎨 واجهة مستخدم عصرية (Modern UX)
-* **Interactive Beads:** تصميم محاكي لحركة حبات السبحة الـ 33 بشكل بصري مريح.
-* **Smart Themes:** تنقل سلس بين **الوضع الليلي (Dark Mode)** و **الوضع النهاري (Light Mode)**.
-* **Progress Tracking:** شريط تقدم تفاعلي يوضح لك المسافة المتبقية لهدفك اليومي.
-
-### 📚 عمق ديني (Religious Depth)
-* **Authentic Hadiths:** كل ذكر متبوع بحديث صحيح يوضح فضله وأجره (من البخاري ومسلم).
-* **Easy Sharing:** إمكانية نسخ الحديث بضغطة زر واحدة لمشاركته كصدقة جارية.
-
-### 📈 ذكاء البيانات (Data Insights)
-* **Detailed Stats:** تتبع إحصائياتك لآخر 7 أيام لتعزيز الاستمرارية.
-* **Auto-Save:** حفظ تلقائي لتقدمك وإعداداتك في ملفات JSON محلية.
+<table align="center">
+  <tr>
+    <td align="center"><b>شاشة التسبيح التفاعلية</b><br><img src="https://raw.githubusercontent.com/youssef-elkhodary-eg/Smart-Tasbih/main/SmartTasbih_V-3.0_YX5bc5YKgi.png" width="300"></td>
+    <td align="center"><b>مكتبة الأحاديث الشريفة</b><br><img src="https://raw.githubusercontent.com/youssef-elkhodary-eg/Smart-Tasbih/main/SmartTasbih_V-3.0_1oRlnxkRuW.png" width="300"></td>
+    <td align="center"><b>الإحصائيات والتقدم اليومي</b><br><img src="https://raw.githubusercontent.com/youssef-elkhodary-eg/Smart-Tasbih/main/SmartTasbih_V-3.0_aflda6P1et.png" width="300"></td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Built With | تم التطوير باستخدام
+## 🌟 أبرز المميزات (Features)
 
-* **Python 3.x:** اللغة الأساسية للمشروع.
-* **Tkinter GUI:** لبناء واجهة رسومية خفيفة وسريعة.
-* **JSON:** لإدارة البيانات محلياً بذكاء.
-* **Winsound:** لتوفير تنبيهات صوتية تفاعلية.
+* **🎨 واجهة مستخدم عصرية:** رسوم متحركة للخرز تحاكي حركة السبحة الحقيقية.
+* **🌓 أنماط ذكية:** دعم كامل للوضع الداكن (Dark Mode) والوضع الفاتح (Light Mode).
+* **📚 محتوى موثوق:** أكثر من 35 ذكراً مدعومة بأحاديث صحيحة من البخاري ومسلم.
+* **📊 إحصائيات متقدمة:** رسم بياني لمتابعة وردك اليومي وتتبع الاستمرارية (Streak).
+* **⚙️ مرونة كاملة:** إمكانية إضافة أذكار مخصصة وتصدير بياناتك بصيغة CSV أو JSON.
 
 ---
 
-## 🚀 Quick Start | ابدأ الآن
+## 📥 التحميل والتشغيل (Download)
 
-1. **تحميل المشروع:**
-   ```bash
-   git clone [https://github.com/YourUsername/Smart-Tasbih-Pro.git](https://github.com/YourUsername/Smart-Tasbih-Pro.git)
+### لمستخدمي ويندوز (الخيار الأسهل)
+يمكنك تحميل البرنامج مباشرة كملف تنفيذي دون الحاجة لتثبيت أي برامج إضافية:
+
+[**📥 اضغط هنا لتحميل Smart Tasbih V-3.0 مجاناً**](https://github.com/youssef-elkhodary-eg/Smart-Tasbih/releases/download/V-3.0/SmartTasbih.V-3.0.exe)
+
+---
+
+## 🛠️ للمطورين (Run from Source)
+إذا كنت ترغب في تشغيل الكود المصدري أو التعديل عليه:
+1. تأكد من تثبيت **Python 3.8+**.
+2. قم بتحميل الملفات وتشغيل:
+```bash
+python main.py
